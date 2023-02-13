@@ -1,0 +1,16 @@
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\bin\Release\Bomberman.exe.config
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\bin\Release\Bomberman.exe
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\bin\Release\Bomberman.pdb
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.csproj.AssemblyReference.cache
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\MainWindow.g.cs
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\App.g.cs
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman_MarkupCompile.cache
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman_MarkupCompile.lref
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\MainWindow.baml
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.g.resources
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.Properties.Resources.resources
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.csproj.GenerateResource.cache
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.exe
+C:\Users\JeffYau\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.pdb
